@@ -2,7 +2,7 @@
 
 ### Rule:
 
-Ten-pin bowling scoring rules: http://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring 
+Ten-pin bowling scoring rules: http://en.wikipedia.org/wiki/Ten-pin_bowling#Scoring
 
 ### Goal:
 
